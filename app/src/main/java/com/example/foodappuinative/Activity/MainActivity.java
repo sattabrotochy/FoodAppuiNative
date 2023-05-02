@@ -1,7 +1,10 @@
-package com.example.foodappuinative;
+package com.example.foodappuinative.Activity;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
+
+import com.example.foodappuinative.R;
 
 public class MainActivity extends AppCompatActivity {
 
