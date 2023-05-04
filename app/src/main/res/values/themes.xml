@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.FoodAppUiNative" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Theme.FoodAppUiNative" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#ff5e00</item>
         <item name="colorPrimaryDark">#ff5e00</item>
